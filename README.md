@@ -1,3 +1,11 @@
+# Weekend Spike: Google Maps
+
+In preparation for the Prime Solo Project, I am working on a weekend spike to learn a new feature that I will add to my application. I am learning more about the Google Maps API and how to create an interactive, searchable map with informational markers.
+
+## Resource
+[Google Maps React](https://www.npmjs.com/package/google-map-react)
+[Placing react components on the map](https://github.com/google-map-react/old-examples/blob/master/web/flux/components/examples/x_simple/simple_map_page.jsx)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
